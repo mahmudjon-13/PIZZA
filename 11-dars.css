@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+}
+
+.container {
+    width: 2500px;
+    height: 830px;
+    display: flex;
+    align-items: center;
+    background-color: aqua;
+    margin: 50px;
+    border-radius: 50px;
+}
+
+/* .box2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+.box2>h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.box3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+}

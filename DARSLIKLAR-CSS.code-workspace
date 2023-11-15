@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../html Darsliklar G-3"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5504,
+		"liveServer.settings.multiRootWorkspaceName": "DARSLIKLAR-CSS"
+	}
+}

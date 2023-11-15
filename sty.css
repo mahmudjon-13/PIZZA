@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    height: 35px;
+} 
+
+.container {
+    width: 100%;
+    height: calc(100vh - 35px);
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box {
+    width: 400px;
+    height: 400px;
+    background-color: rgb(252, 252, 252);
+    color: rgb(251, 253, 253);
+    border-radius: 50px;
+    margin: 10px;
+    padding: 40px;
+    background-image: url();
+    background-size:cover ;
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+}
